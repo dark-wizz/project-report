@@ -1,0 +1,11 @@
+Font Name: 
+Times New Roman
+
+Font Size:
+Heading. 16,
+Sub heading 14, content 12
+Line spacing. 1.5
+
+Total Number of Pages 35 - 45.
+
+Print only on One Side
