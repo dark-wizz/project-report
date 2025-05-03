@@ -1,0 +1,65 @@
+Task 1:
+
+<insert the following thing in the paper table>
+
+Algorithm Visualization: A Report on the State of the Field
+Year: 2022
+Published by: Clifford A. Shaffer, Matthew Cooper, Stephen H. Edwards
+Methodology: Traces the evolution of algorithm visualization, highlights milestones, and discusses challenges such as lack of standardized evaluation methods.
+Pros: Emphasizes the importance of visual tools in enhancing algorithm education.
+Cons: Identifies obstacles like difficulty in creating universally effective visualizations.
+2. Effective Features of Algorithm Visualizations
+Year: 2021
+Published by: Purvi Saraiya
+Methodology: Evaluates interactive features of algorithm visualizations, focusing on user engagement and understanding.
+Pros: Highlights the value of integrating pseudocode and real-time feedback.
+Cons: Calls for further research to refine interactive elements.
+3. A Literature Review on Algorithm Visualizers
+Year: 2022
+Published by: Sweeta Bansal, Karan Kohli, Krishna Kumar, Kush Gupta
+Methodology: Surveys existing algorithm visualization tools, examining strengths and weaknesses.
+Pros: Emphasizes user interactivity and visual clarity.
+Cons: Notes limitations in current designs and lack of standardized evaluation methods.
+4. Review of Algorithm Visualization Methodologies
+Year: 2022
+Published by: Jay Talekar, Jugal Suthar, Sanket Joshi, Prof. Jignesh Patel
+Methodology: Compares innovative visualization approaches, emphasizing web-based solutions.
+Pros: Highlights the advantages of user interactivity and accessibility.
+Cons: Calls for further research to refine methodologies.
+5. Designing Educationally Effective Algorithm Visualizations
+Year: 2019
+Published by: N. H. Narayanan, M. Hegarty, S. R. Hansen
+Methodology: Introduces the HalVis framework for interactive algorithm animations.
+Pros: Demonstrates how synchronized pseudocode and visual feedback boost comprehension.
+Cons: Suggests further research to refine the framework.
+6. On the Role of Animated Analogies in Algorithm Visualizations
+Year: 2020
+Published by: S. R. Hansen, N. H. Narayanan
+Methodology: Presents interactivity features and learning modules of HalVis.
+Pros: Highlights the effectiveness of animated analogies in improving understanding.
+Cons: Calls for further research to refine the framework.
+7. On the Role of Animated Analogies in Algorithm Visualizations
+Year: 2018
+Published by: C. Kann, R. W. Lindeman, R. Heller
+Methodology: Reports gains in student performance through animated analogies.
+Pros: Provides empirical evidence of benefits in teaching algorithms.
+Cons: Suggests further research to refine visualizations.
+8. A Web-Based Algorithm Animation System for an Electronic Classroom
+Year: 2023
+Published by: Marc H. Brown, Marc A. Najork
+Methodology: Explores web-based interactive textbooks integrating algorithm animations.
+Pros: Emphasizes user control over animation speed and data inputs.
+Cons: Calls for further research to refine tools.
+9. Testing Effectiveness of Algorithm Visualization
+Year: 2021
+Published by: J. S. Gurka, W. Citrin
+Methodology: Presents an empirical framework for evaluating learning gains from visual tools.
+Pros: Provides insights into factors contributing to effectiveness.
+Cons: Suggests standardized evaluation methods are needed.
+10. Smooth Animation of Algorithms in a Declarative Framework
+Year: 2022
+Published by: C. Demetrescu, I. Finocchi
+Methodology: Introduces a declarative model for generating algorithm animations.
+Pros: Emphasizes smooth transitions to maintain user context.
+Cons: Calls for further research to refine the framework.
+
